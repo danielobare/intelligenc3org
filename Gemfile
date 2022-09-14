@@ -22,7 +22,7 @@ gem "importmap-rails"
 gem "turbo-rails"
 
 #active support
-gem 'activesupport', '~> 7.0', '>= 7.0.4'
+gem 'activesupport', '~> 7.0', '>= 7.0.4', '>= 3.0.0'
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
