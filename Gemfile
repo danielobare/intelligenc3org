@@ -28,7 +28,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 #Adding/Installing Webpacker to Gemfile
-gem 'webpack', '~> 4.3.x'
+gem 'webpacker', '~> 0.1'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
