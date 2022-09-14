@@ -1,0 +1,14 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Securities</h1>
+
+<div id="securities">
+  <% @securities.each do |security| %>
+    <%= render security %>
+    <p>
+      <%= link_to "Show this security", security %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New security", new_security_path %>

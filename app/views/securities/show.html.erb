@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @security %>
+
+<div>
+  <%= link_to "Edit this security", edit_security_path(@security) %> |
+  <%= link_to "Back to securities", securities_path %>
+
+  <%= button_to "Destroy this security", @security, method: :delete %>
+</div>
