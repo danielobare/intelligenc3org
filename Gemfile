@@ -33,6 +33,9 @@ gem "jbuilder"
 #Adding/Installing Webpacker to Gemfile
 gem 'webpacker', '~> 4.3'
 
+#Adding psych
+gem 'psych', '< 4'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
