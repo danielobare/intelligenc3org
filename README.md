@@ -11,6 +11,8 @@ Things you may want to cover:
 
 I however experienced issues working with webpacker to get my front end working. Difficulties in unmet dependencies with miniset that could not be fixed without interfering with other working parts. I resorted to a simple react app that I have added in the folder 'front end'
 
+I chose the webpacker way for my front end but since it is not supported anymore since the start of 2022, dependency issues arose. Was stuck trying to solve the issue and in the end opted for a standalone react app (that I have not fully implemented. it only has the homepage, some routes and a form.)
+
 * System dependencies
 
 * Configuration
