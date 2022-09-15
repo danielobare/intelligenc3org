@@ -1,0 +1,18 @@
+*{
+    background-color: lightgrey;
+    font-family: sans-serif;
+}
+h1{
+    font-size:large;
+    margin: auto;
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+}
+
+.about{
+    align-items: center;
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+}

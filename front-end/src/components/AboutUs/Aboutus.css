@@ -1,0 +1,47 @@
+.container{
+    align-items: center;
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+}
+
+.user-details .input-box .details{
+    display: block;
+    font-weight: 500;
+    margin: 10px;
+
+}
+.user-details .input-box input{
+    height: 25px;
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    font-size: 16px;
+
+}
+
+.user-details .input-box select{
+    height: 25px;
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    font-size: 16px;
+}
+form{
+    margin-top: 20px;
+}
+
+.button{
+padding: 15px;
+font-size: 16px;
+height: 45px;
+width: 20%;
+margin-top: 40px;
+background-color: grey;
+font-size: 25;
+border-radius: 5px;
+}
