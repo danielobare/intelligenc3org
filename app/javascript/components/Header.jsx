@@ -10,6 +10,8 @@ export default () => (
       <Menu.Item key="1">Home</Menu.Item>
       <Menu.Item key="2">Our Services</Menu.Item>
       <Menu.Item key="3">Contact</Menu.Item>
+      <Menu.Item key="3">Human Trafficking</Menu.Item>
+			<Menu.Item key="3">Insurgence</Menu.Item>
     </Menu>
   </Header>
 );

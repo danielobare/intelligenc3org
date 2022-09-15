@@ -1,6 +1,6 @@
 import Header from "./Header";
 import { Layout } from "antd";
-import Security from "./Securities";
+import Securities from "./Securities";
 import React from "react";
 
 const { Content, Footer } = Layout;
@@ -11,9 +11,9 @@ export default () => (
     <Content style={{ padding: "0 50px" }}>
       <div className="site-layout-content" style={{ margin: "100px auto" }}>
         <h1>Security concerns</h1>
-        <Beers />
+        <Securities />
       </div>
     </Content>
-    <Footer style={{ textAlign: "center" }}>© obar3 2021.</Footer>
+    <Footer style={{ textAlign: "center" }}>© intelligenc3org 2021.</Footer>
   </Layout>
 );
