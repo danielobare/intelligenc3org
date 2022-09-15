@@ -26,6 +26,9 @@ rake db:create
 ##
 
 * How to run the test suite
+For the react front end in 'front end' folder, run
+ 
+npm install then npm start
 
 * Services (job queues, cache servers, search engines, etc.)
 
