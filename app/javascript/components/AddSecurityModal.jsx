@@ -94,12 +94,12 @@ class AddSecurityModal extends React.Component {
                 optionFilterProp="children"
                 style={{ width: "100%" }}
               >
-                <Option value="Finland">South Africa</Option>
-                <Option value="Germany">Europe</Option>
+                <Option value="South Africa">South Africa</Option>
+                <Option value="Europe">Europe</Option>
                 <Option value="Netherlands">Netherlands</Option>
-                <Option value="UK">Kenya</Option>
+                <Option value="Kenya">Kenya</Option>
                 <Option value="USA">USA</Option>
-                <Option value="Other">Other</Option>
+                <Option value="Zimbabwe">Zimbabwe</Option>
               </Select>
             </Form.Item>
 
